@@ -3,9 +3,9 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Estos cambios son nuevos desde GitHub
-    prueba sobre MarkDown
+prueba sobre ***MarkDown***
 # Objetivos de la repositorio
-    **Practicar**
+**Practicar**
     
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
